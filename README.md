@@ -4,7 +4,7 @@ A Python notebook that propagates four satellites in different orbital regimes o
 
 Built during **Space Career Week 2026 (SCW26)**, a free online event by **GNSS Academy**.
 
-**Notebook:** [Open in Google Colab](COLAB_LINK)
+**Notebook:** [Open in Google Colab](https://colab.research.google.com/drive/1NO8OTDJR1UuydxkwS8zRfG2vGK7reKMP?usp=sharing)
 
 ## What it does
 
